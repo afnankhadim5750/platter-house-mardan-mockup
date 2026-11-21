@@ -1,0 +1,132 @@
+{
+  "archetype": "Full-bleed cinematic",
+  "business": "Platter House Restaurant, Mardan (main branch, Pull, Nowshera Road near Ring Road, Mardan 23200, KPK)",
+  "colour": {
+    "accent": "#B3372A",
+    "base": "#1A1512",
+    "bone": "#F4EDE1"
+  },
+  "deploy_permalink": "https://6b01553c15ea360e8d6780c6--platter-house-mardan-mockup.netlify.app",
+  "fonts": {
+    "body": "Encode Sans",
+    "display": "Bowlby One"
+  },
+  "github_commit": "581d9964283c19ab7a4e10c4d49fa2a3dd59c736",
+  "github_repo": "https://github.com/afnankhadim5750/platter-house-mardan-mockup",
+  "hero": "Full-screen BBQ platter photo (Pexels 33451420 \u2014 grilled meats, charred tomatoes, green chillies, onions on a wooden board) with headline 'One platter. Everybody eats.' on the photo under a dark scrim",
+  "image_count": 25,
+  "image_ids": [
+    33451420,
+    8963375,
+    9562302,
+    32986482,
+    38399759,
+    33990733,
+    9200388,
+    1233101,
+    17312401,
+    9200397,
+    36734922,
+    38495626,
+    39536491,
+    16020573,
+    38579059,
+    20807877,
+    7353393,
+    5533764,
+    37179548,
+    4224305,
+    16014227,
+    37404183,
+    8209906,
+    28210542,
+    1309071
+  ],
+  "live_url": "https://platter-house-mardan-mockup.netlify.app",
+  "nav": [
+    "The Platters",
+    "BBQ & Grill",
+    "Rice & Bread",
+    "Family Deals",
+    "Gallery",
+    "Visit"
+  ],
+  "section_order": [
+    "hero (full-bleed BBQ platter)",
+    "trust bar (4.1 rating / 1,400+ reviews / 14 hrs / 7 days)",
+    "ember marquee",
+    "about \u2014 the house on Nowshera Road",
+    "The Platters (menu board)",
+    "BBQ & Grill (horizontal-scroll rail)",
+    "Rice & Bread",
+    "The Coal Fire (3-step process)",
+    "Family Deals",
+    "Why locals choose Platter House (review themes)",
+    "Gallery (lightbox)",
+    "FAQ",
+    "Visit (address / hours / call / map)",
+    "final CTA",
+    "footer"
+  ],
+  "signature_elements": [
+    "Ember-red marquee strip of house dishes",
+    "Menu-board platter cards with a featured full-platter card",
+    "Horizontal-scroll BBQ & Grill card rail",
+    "The Coal Fire three-step process section with overlapping ember photos",
+    "Lightbox gallery (masonry grid)",
+    "Animated counters using verified numbers only (4.1, 1,400+, 14 hrs, 7 days)"
+  ],
+  "site_id": "b9bfc140-f8c7-47af-95a8-686696174187",
+  "slug": "platter-house-mardan-mockup",
+  "summary_5_lines": [
+    "Business: Platter House Restaurant, Mardan \u2014 a BBQ platter restaurant on Nowshera Road (Pull, near Ring Road), rated 4.1 from 1,400+ Google reviews, open daily 9 AM \u2013 11 PM, with no own website (TikTok @platterhousemardan only).",
+    "Why chosen: a well-reviewed, family-favourite BBQ house whose signature is mixed platters served sizzling on coal burners, with no website to compete against \u2014 a strong demo candidate, built for the main Nowshera Road branch only.",
+    "Design direction: full-bleed cinematic with a coal-burner BBQ platter hero, near-black #1A1512 base, ember red #B3372A accent and bone #F4EDE1, Bowlby One display type with Encode Sans body \u2014 bold, smoky, built for sharing.",
+    "Signature elements: ember marquee of house dishes, menu-board platter cards, a horizontal-scroll BBQ & Grill rail, a three-step Coal Fire process section, and a lightbox gallery.",
+    "Could not be verified: founding year/history, individual dish prices (site says 'Prices on request' once), delivery/takeaway, seating capacity, verbatim Google review quotes, a real logo (text wordmark used), and Branch 2 / Platter House 03 details (excluded, recorded in research.json)."
+  ],
+  "verification": {
+    "curl_deploy_permalink": "https://6b01553c15ea360e8d6780c6--platter-house-mardan-mockup.netlify.app/index.html \u2014 HTTP 200, 38,062 bytes (final deploy 6b01553c15ea360e8d6780c6; earlier deploys 6b0154a0bd8d4d315a566f76, 6b0154c5a3b22d00603833c0, 6b0154fefdb60d4a5f8f7131)",
+    "curl_main": "https://platter-house-mardan-mockup.netlify.app/index.html \u2014 HTTP 200, 38,062 bytes; root / also 200; styles.css and main.js both 200; live HTML matches local index.html except Netlify-injected comment + HUD script",
+    "design_log_fonts_grep": "grep Bowlby/Encode in ~/workspace/pakistani-demos/design-log.json \u2014 0 hits (fonts unused by prior 51 sites)",
+    "flags": [
+      "Netlify 'Powered by Netlify' HUD badge floats bottom-right on the free tier (lane-wide artifact, not a defect); on the 390px hero it slightly overlaps the trailing 'M' of the '9 AM \u2013 11 PM' fact \u2014 text remains readable. Mobile hero bottom padding raised to 132px to lift the facts clear; the badge is fixed-position so a small overlap at the hero's bottom edge remains.",
+      "Google Maps iframe in the Visit section renders grey (only the 'Open in Maps' control visible) in the Microlink capture; the embed URL itself responds (301 redirect, normal for Google Maps without a browser). Map tiles could not be visually confirmed in the screenshot \u2014 standard google.com/maps?q=\u2026&output=embed pattern, same as prior lane sites.",
+      "First Netlify deploy included research.json/design-dna.json (HTTP 200); fixed by redeploying from a staging copy containing only index.html/styles.css/main.js to the same site-id. Final state: research.json, design-dna.json and builder-report.json all 404 on the live site, matching the lane pattern.",
+      "No verified real logo found \u2014 clean text wordmark (PH disc) used.",
+      "Review themes only, no verbatim quotes \u2014 no reviewer-named Google quotes were collected, so the site uses a 'Why locals choose' themes section."
+    ],
+    "images_all_200": "All 25 Pexels CDN URLs curl-checked at w=1600 \u2014 HTTP 200 each",
+    "images_rejections": "8 rejected after viewing: 12034465 (beer glass visible), 8173488 (bare legs in frame), 33451419 (black eggplants dominate), 30268878 (Western steakhouse look), 12921690 (European street cafe), 15239613 (European cafe interior), 33233600 (soft/blurry foreground), 38788368 (lace-tablecloth home look). All recorded in research.json.",
+    "images_viewed": "33 candidates downloaded and viewed as 3 labelled PIL contact sheets (plus 1309071 viewed individually); 25 kept, 0 of the 25 overlap the 1,073 previously used image IDs (checked against /tmp/day18-used-ids.json)",
+    "mobile_menu": "python3 verify-mobile-menu.py <site-dir> \u2014 [PASS] MENU_TEST_PASS",
+    "noindex": "<meta name=\"robots\" content=\"noindex\"> present in index.html (verified in live HTML too)",
+    "prices_on_request_count": 1,
+    "research_design_dna_404": "research.json 404, design-dna.json 404, builder-report.json 404 on the live site",
+    "screenshots_viewed": "Microlink desktop 1400x900 (hero, ?v=2) and mobile 390x844 (hero, ?v=2, ?v=3, ?v=4) viewed; desktop anchor shots #rice and #visit viewed \u2014 Rice & Bread cards, Visit cards/hours/phone/WhatsApp all render cleanly; active nav highlighting works; near-white pixel ratio ~2.2% (fully rendered, no blank capture)"
+  },
+  "collision_fix": {
+    "date": "2026-11-21",
+    "cause": "Original builder compared bare integer IDs against \"pexels:\"-prefixed log strings, so 7 cross-site ID collisions were missed in the stem-normalised cross-check.",
+    "mapping": {
+      "pexels:37223237": "pexels:9562302",
+      "pexels:39536492": "pexels:39536491",
+      "pexels:33556462": "pexels:38579059",
+      "pexels:28674556": "pexels:20807877",
+      "pexels:18601877": "pexels:7353393",
+      "pexels:4224304": "pexels:4224305",
+      "pexels:36652961": "pexels:37404183"
+    },
+    "mapping_list": [
+      "pexels:37223237 -> pexels:9562302",
+      "pexels:39536492 -> pexels:39536491",
+      "pexels:33556462 -> pexels:38579059",
+      "pexels:28674556 -> pexels:20807877",
+      "pexels:18601877 -> pexels:7353393",
+      "pexels:4224304 -> pexels:4224305",
+      "pexels:36652961 -> pexels:37404183"
+    ],
+    "verification": "Every replacement ID stem-normalised checked (strip \"pexels:\" prefix and non-digits) against: (a) design-log.json all 51 entries (1073 IDs), (b) Spice Orchid Site A 22 IDs, (c) Handi House Site C current 22 IDs, (d) the 18 non-colliding kept IDs. Zero hits in all four sets. All 7 new image URLs curl 200 at w=800 and w=1600. All 7 replacements downloaded and viewed (labelled PIL contact sheet) \u2014 photorealistic, on-subject, Pakistan-appropriate. Final full-25 stem-normalised check: 0 collisions.",
+    "alt_texts_updated": "Alt text on the 6 replaced <img> tags corrected to describe the new photos (tandoor baker, biryani on white plate, garlic naan basket, flatbread basket, biryani on black plates, biryani platter with raita/chutney). No design, copy, font or layout changes."
+  }
+}
